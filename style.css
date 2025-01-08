@@ -1,0 +1,22 @@
+#Block1, #Block2, #Block3 {
+    background-color: red;
+}
+
+nav {
+    background-color: black;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
